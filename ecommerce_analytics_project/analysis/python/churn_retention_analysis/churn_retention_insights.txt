@@ -1,0 +1,7 @@
+CHURN & RETENTION ANALYSIS
+
+Churn Definition: No purchase in last 90 days
+
+Total Customers: 4338
+Churn Rate: 33.31%
+Retention Rate: 66.69%

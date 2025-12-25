@@ -1,0 +1,1 @@
+python -m analysis.python.RFM_analysis.customer_rfm_analysis

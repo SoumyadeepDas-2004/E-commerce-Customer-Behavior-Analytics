@@ -1,0 +1,30 @@
+COUNTRY-WISE BUSINESS INSIGHTS
+
+Top 10 Countries by Revenue:
+       Country  Total_Revenue  Total_Orders  Total_Customers         AOV
+United Kingdom    7308391.554         16646             3920  439.047913
+   Netherlands     285446.340            94                9 3036.663191
+          EIRE     265545.900           260                3 1021.330385
+       Germany     228867.140           457               94  500.803370
+        France     209024.050           389               87  537.336889
+     Australia     138521.310            57                9 2430.198421
+         Spain      61577.110            90               30  684.190111
+   Switzerland      56443.950            51               21 1106.744118
+       Belgium      41196.340            98               25  420.370816
+        Sweden      38378.330            36                8 1066.064722
+
+Top 10 Countries by AOV:
+    Country  Total_Revenue  Total_Orders  Total_Customers         AOV
+  Singapore       21279.29             7                1 3039.898571
+Netherlands      285446.34            94                9 3036.663191
+  Australia      138521.31            57                9 2430.198421
+      Japan       37416.37            19                8 1969.282632
+    Lebanon        1693.88             1                1 1693.880000
+     Israel        7221.69             5                3 1444.338000
+     Brazil        1143.60             1                1 1143.600000
+Switzerland       56443.95            51               21 1106.744118
+     Sweden       38378.33            36                8 1066.064722
+    Denmark       18955.34            18                9 1053.074444
+
+Untapped Markets (High Customers, Low Revenue):
+No clear untapped markets detected.

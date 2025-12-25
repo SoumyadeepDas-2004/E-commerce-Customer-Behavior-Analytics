@@ -1,0 +1,1 @@
+python -m analysis.python.revenue_seasonality_analysis.revenue_seasonality_analysis

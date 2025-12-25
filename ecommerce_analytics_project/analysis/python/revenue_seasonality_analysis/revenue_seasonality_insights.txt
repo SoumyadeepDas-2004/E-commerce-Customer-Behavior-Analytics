@@ -1,0 +1,24 @@
+REVENUE & SEASONALITY INSIGHTS
+
+Top 3 Peak Sales Months:
+ YearMonth     Revenue  MoM_Growth_%
+2011-11-01 1161817.380     11.786431
+2011-10-01 1039318.790      9.076084
+2011-09-01  952838.382     47.648158
+
+Lowest 3 Sales Months:
+ YearMonth    Revenue  MoM_Growth_%
+2011-02-01 447137.350    -21.478401
+2011-04-01 469200.361    -21.209108
+2011-12-01 518192.790    -55.398086
+
+Holiday Season Performance (Nov–Dec):
+ YearMonth    Revenue  MoM_Growth_%
+2010-12-01  572713.89           NaN
+2011-11-01 1161817.38     11.786431
+2011-12-01  518192.79    -55.398086
+
+Highest Month-over-Month Growth:
+YearMonth       2011-09-01 00:00:00
+Revenue                  952838.382
+MoM_Growth_%              47.648158

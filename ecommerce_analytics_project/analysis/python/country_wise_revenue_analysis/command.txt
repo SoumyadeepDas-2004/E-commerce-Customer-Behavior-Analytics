@@ -1,0 +1,1 @@
+python -m analysis.python.country_wise_revenue_analysis.country_wise_revenue_analysis
