@@ -35,4 +35,4 @@ Customers were segmented into:
 
 ## ▶️ How to Run
 ```bash
-python -m analysis.python.customer_purchase_behavious_analysis
+python -m analysis.python.customer_purchase_behaviour_analysis
